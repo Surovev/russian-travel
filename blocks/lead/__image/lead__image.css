@@ -3,7 +3,6 @@
     height: 554px;
     margin-bottom: 11px;
 
-    background: url(../lead__vector.svg) no-repeat center 39%/95%, url(../lead__background.jpg) no-repeat center top/cover;
 }
 
 
@@ -21,7 +20,8 @@
 @media screen and (max-width: 1023.98px) {
     .lead__image {
         width: 100%;
-        padding-bottom: 57%;
+        height: auto;
+
 
     }
 }
