@@ -8,10 +8,10 @@
 .place {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    grid-row-gap: 60px;
-    grid-column-gap: 40px;
+    grid-row-gap: 55px;
+    grid-column-gap: 20px;
     max-width: 984px;
-    margin: 0 auto 72px;
+    margin: 0 auto 85px;
 }
 
 /* md */

@@ -2,8 +2,9 @@
     width: 176.58px;
     height: 52px;
     /* background-image: url(logo.svg); */
-    flex-grow: 1;
+    flex-grow: 0;
     background-repeat: no-repeat;
+    margin-right: auto;
 }
 
 /* xs */
