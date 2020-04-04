@@ -9,6 +9,14 @@
     color: #FFFFFF;
 }
 
+/* md */
+@media screen and (min-width: 1024px) and (max-width: 1278.98px) {
+    .content-title {
+        margin-bottom: 30px;
+    }
+}
+
+
 /* sm */
 @media screen and (min-width: 768px) and (max-width: 1023.98px) {
     .content-title {
