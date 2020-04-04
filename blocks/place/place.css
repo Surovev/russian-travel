@@ -9,9 +9,9 @@
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-row-gap: 55px;
-    grid-column-gap: 20px;
+    grid-column-gap: 22px;
     max-width: 984px;
-    margin: 0 auto 80px;
+    /* margin: 0 auto 80px; */
 }
 
 /* md */
@@ -26,6 +26,8 @@
 @media screen and (min-width: 768px) and (max-width: 1023.98px) {
     .place {
         max-width: 720px;
+        margin-bottom: 30px;
+
     }
 }
 
