@@ -19,8 +19,7 @@
 /* sm */
 @media screen and (min-width: 768px) and (max-width: 1023.98px) {
     .video__icon-play {
-        top: 24px;
-        left: 24px;
+        margin-bottom: 17px;
     }
 }
 
