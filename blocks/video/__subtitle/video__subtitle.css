@@ -5,9 +5,20 @@
     color: #FFFFFF;
     margin-bottom: 30px;
     text-decoration: none;
-
-
 }
+
+/* sm- */
+@media screen and (max-width: 1023.98px) {
+    .video__subtitle {
+        margin-bottom: 20px;
+
+    }
+}
+
+
+
+
+
 
 /* sm- */
 @media screen and (max-width: 768px) {

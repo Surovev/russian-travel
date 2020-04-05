@@ -1,10 +1,17 @@
 .video__item_kamchatka {
-    background-image: url(../_kamchatka/kamchatka.jpg);
+    background:
+        linear-gradient(rgba(0, 0, 0, 0.3),
+            rgba(0, 0, 0, 0.5)),
+        url(../_kamchatka/kamchatka.jpg);
 }
+
+
+
+
 
 .video__item_kamchatka:hover {
     background:
-        linear-gradient(rgba(0, 0, 0, 0.5),
+        linear-gradient(rgba(0, 0, 0, 0.6),
             rgba(0, 0, 0, 0.5)),
         url(../_kamchatka/kamchatka.jpg);
     background-size: cover;
