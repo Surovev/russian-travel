@@ -29,6 +29,7 @@
     .intro {
         width: auto;
         max-width: 600px;
-        margin: 0 auto 64px
+        margin: 0 auto 64px;
+        padding: 0 16px;
     }
 }

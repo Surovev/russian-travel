@@ -12,7 +12,7 @@
 
 @media screen and (min-width: 1400px) {
     .header {
-        FONT-WEIGHT: 600;
+        font-weight: 600;
         width: 1184px;
         margin: 30px auto 0;
     }
@@ -24,6 +24,7 @@
     .header {
         width: 100%;
         padding: 0 48px;
+        margin: 30px 0 0 0;
 
     }
 }
@@ -33,6 +34,7 @@
     .header {
         width: 100%;
         padding: 0 24px;
+        margin: 30px 0 0 0;
     }
 }
 
@@ -43,6 +45,6 @@
         width: 100%;
         padding: 0 16px;
         max-width: 600px;
-
+        margin: 30px 0 0 0;
     }
 }
