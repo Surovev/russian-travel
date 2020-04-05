@@ -11,6 +11,13 @@
     padding-top: 17px;
 }
 
+
+.header__lang:hover {
+    opacity: .6;
+    transition: linear .7s;
+
+}
+
 /* xs */
 @media screen and (max-width: 767.98px) {
     .header__lang {

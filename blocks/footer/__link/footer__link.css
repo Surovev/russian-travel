@@ -10,6 +10,12 @@
 
 }
 
+.footer__link:hover {
+    opacity: .6;
+    transition: linear .7s;
+
+}
+
 /* sm */
 @media screen and (min-width: 768px) and (max-width: 1023.98px) {
     .footer__link {
