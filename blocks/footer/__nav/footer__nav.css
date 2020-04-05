@@ -5,3 +5,33 @@
     justify-content: space-between;
     padding: 0;
 }
+
+/* xs */
+@media screen and (max-width: 767.98px) {
+    .footer__nav {
+        flex-wrap: wrap;
+        max-width: 180px;
+        margin-left: 16px;
+
+    }
+}
+
+
+/* md */
+@media screen and (min-width: 1024px) and (max-width: 1239.98px) {
+    .footer__nav {
+        width: auto;
+        margin-left: 48px;
+        margin-right: 48px;
+    }
+}
+
+/* sm */
+@media screen and (min-width: 768px) and (max-width: 1023.98px) {
+    .footer__nav {
+        width: auto;
+
+        margin-left: 24px;
+        margin-right: 24px;
+    }
+}

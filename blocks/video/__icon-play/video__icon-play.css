@@ -28,8 +28,7 @@
 /* xs */
 @media screen and (max-width: 767.98px) {
     .video__icon-play {
-        top: 16px;
-        left: 16px;
-        width: 30px;
+        margin-bottom: 16px;
+        margin-top: 16px;
     }
 }

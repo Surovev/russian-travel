@@ -36,5 +36,6 @@
     .lead {
         height: auto;
         margin-bottom: 64px;
+        max-width: 600px;
     }
 }
