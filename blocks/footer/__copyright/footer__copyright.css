@@ -3,11 +3,10 @@
     font-size: 14px;
     line-height: 20px;
     text-align: right;
-    align-self: flex-end;
+    align-self: center;
     justify-self: flex-end;
     margin-left: auto;
-    margin-top: auto;
-    margin-bottom: auto;
+
 
 
     color: #FFFFFF;
