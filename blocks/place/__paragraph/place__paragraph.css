@@ -10,11 +10,19 @@
 
     margin-top: -10px;
 
-    margin-bottom: 20px;
+    margin-bottom: 36px;
 
     color: #FFFFFF;
 
     max-width: 484px;
+}
+
+
+/* md */
+@media screen and (min-width: 1024px) and (max-width: 1239.98px) {
+    .place__paragraph {
+        margin-bottom: 24px;
+    }
 }
 
 /* sm- */

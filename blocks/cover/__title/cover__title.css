@@ -5,7 +5,7 @@
     margin: 0 auto;
     padding: 0;
     max-width: 1095px;
-
+    font-weight: 900;
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
