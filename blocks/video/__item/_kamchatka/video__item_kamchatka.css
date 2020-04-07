@@ -6,3 +6,11 @@
     background-size: cover;
 
 }
+
+/* sm */
+@media screen and (min-width: 768px) and (max-width: 1023.98px) {
+    .video__item_kamchatka {
+        margin-right: 4.5px;
+
+    }
+}
